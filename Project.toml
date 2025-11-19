@@ -1,3 +1,8 @@
+name = "RunPeriodically"
+uuid = "05c83f28-040d-4ffa-a4d8-7f9b7a8c8d62"
+authors = ["Chang Guo <changguo1998@gmail.com>"]
+version = "0.1.0"
+
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
